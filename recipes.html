@@ -1,0 +1,73 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Browse Recipes</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header>
+    <nav class="navbar">
+      <div class="logo">My Recipe Book</div>
+      <ul class="nav-links">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="recipes.html">Browse </a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section class="filters">
+      <input type="text" id="searchInput" placeholder="Search by name...">
+      <select id="ingredientFilter">
+        <option value="">All Ingredients</option>
+        <option value="chicken">Chicken</option>
+        <option value="vegetarian">Vegetarian</option>
+        <option value="gluten-free">Gluten-Free</option>
+      </select>
+      <select id="cuisineFilter">
+        <option value="">All Cuisines</option>
+        <option value="italian">Italian</option>
+        <option value="mexican">Mexican</option>
+        <option value="asian">Asian</option>
+      </select>
+      <select id="timeFilter">
+        <option value="">All Times</option>
+        <option value="30">Under 30 Minutes</option>
+        <option value="60">Under 1 Hour</option>
+      </select>
+    </section>
+
+    <section id="recipesContainer" class="recipe-list"></section>
+
+    <section>
+      <h2 style="margin-left: 2rem;">My Favourites</h2>
+      <div id="favouritesContainer" class="recipe-list"></div>
+    </section>
+  </main>
+
+<!-- Modal -->
+<div id="recipeModal" class="modal">
+  <div class="modal-content">
+    <span class="close-button">&times;</span>
+    <h2 id="modalTitle"></h2>
+    <img id="modalImage" src="" alt="" />
+    <p><strong>Time:</strong> <span id="modalTime"></span> minutes</p>
+    <p><strong>Ingredients:</strong> <span id="modalIngredients"></span></p>
+    <h3>Instructions</h3>
+    <ol id="modalSteps"></ol>
+  </div>
+</div>
+
+
+  <footer>
+    <p>&copy; 2025 My Recipe Book. All rights reserved.</p>
+  </footer>
+
+  <script src="js/main.js"></script>
+</body>
+</html>

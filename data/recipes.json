@@ -1,0 +1,171 @@
+[
+  {
+    "name": "Chicken Biryani",
+    "image": "biryani.jpg",
+    "time": 60,
+    "ingredients": ["chicken", "rice"],
+    "cuisine": "asian",
+    "steps": [
+      "Marinate chicken with spices and yogurt.",
+      "Soak rice for 30 minutes.",
+      "Cook chicken in a large pot.",
+      "Boil rice separately until 70% done.",
+      "Layer rice and chicken, add fried onions.",
+      "Cover and cook on low flame for 20 minutes."
+    ]
+  },
+  {
+    "name": "Spaghetti Pasta",
+    "image": "pasta.jpg",
+    "time": 25,
+    "ingredients": ["vegetarian", "tomato"],
+    "cuisine": "italian",
+    "steps": [
+      "Boil spaghetti until al dente.",
+      "Prepare sauce with tomatoes, garlic, and herbs.",
+      "Mix cooked pasta with the sauce.",
+      "Cook for another 5 minutes.",
+      "Serve with grated cheese on top."
+    ]
+  },
+  {
+    "name": "Veggie Salad",
+    "image": "salad.jpg",
+    "time": 15,
+    "ingredients": ["vegetarian", "gluten-free"],
+    "cuisine": "mexican",
+    "steps": [
+      "Chop fresh vegetables (lettuce, cucumber, tomato).",
+      "Add corn and beans.",
+      "Mix olive oil, lemon juice, salt, and pepper for dressing.",
+      "Toss vegetables with dressing.",
+      "Chill before serving."
+    ]
+  },
+  {
+    "name": "Chicken Noodles",
+    "image": "noodles.jpg",
+    "time": 35,
+    "ingredients": ["chicken"],
+    "cuisine": "asian",
+    "steps": [
+      "Boil noodles and set aside.",
+      "Stir-fry chicken with soy sauce and garlic.",
+      "Add vegetables like carrots and bell peppers.",
+      "Add noodles to the pan and mix well.",
+      "Cook for 5 more minutes and serve hot."
+    ]
+  },
+  {
+    "name": "Tomato Soup",
+    "image": "soup.jpg",
+    "time": 20,
+    "ingredients": ["vegetarian"],
+    "cuisine": "italian",
+    "steps": [
+      "Chop tomatoes and boil them.",
+      "Blend boiled tomatoes with garlic and basil.",
+      "Strain and cook the soup.",
+      "Add salt, pepper, and a bit of cream.",
+      "Serve hot with croutons."
+    ]
+  },
+  {
+    "name": "Chocolate Dessert",
+    "image": "dessert.jpg",
+    "time": 45,
+    "ingredients": ["gluten-free"],
+    "cuisine": "mexican",
+    "steps": [
+      "Melt dark chocolate and butter together.",
+      "Beat eggs and sugar until fluffy.",
+      "Combine chocolate with egg mixture.",
+      "Pour into molds and bake.",
+      "Cool and serve with whipped cream."
+    ]
+  }
+  ,
+{
+  "name": "Paneer Tikka",
+  "image": "paneer.jpg",
+  "time": 40,
+  "ingredients": ["vegetarian"],
+  "cuisine": "indian",
+  "steps": [
+    "Marinate paneer cubes with yogurt and spices.",
+    "Thread onto skewers with veggies.",
+    "Grill or bake until charred.",
+    "Serve with green chutney."
+  ]
+},
+{
+  "name": "Beef Tacos",
+  "image": "tacos.jpg",
+  "time": 30,
+  "ingredients": ["beef", "gluten-free"],
+  "cuisine": "mexican",
+  "steps": [
+    "Cook minced beef with taco seasoning.",
+    "Warm taco shells.",
+    "Fill with beef, lettuce, tomato, cheese.",
+    "Serve with salsa or sour cream."
+  ]
+},
+{
+  "name": "Mushroom Risotto",
+  "image": "risotto.jpg",
+  "time": 50,
+  "ingredients": ["vegetarian", "rice"],
+  "cuisine": "italian",
+  "steps": [
+    "Saute onions and garlic in butter.",
+    "Add mushrooms and arborio rice.",
+    "Gradually add broth, stirring often.",
+    "Finish with cheese and herbs."
+  ]
+}
+,
+{
+  "name": "Paneer Butter Masala",
+  "image": "paneer 2.jpg",
+  "time": 40,
+  "ingredients": ["vegetarian", "paneer", "butter", "spices"],
+  "cuisine": "asian",
+  "steps": [
+    "Heat butter and sauté onions until golden.",
+    "Add tomatoes, spices, and cook into a thick gravy.",
+    "Blend the gravy smooth, return to pan.",
+    "Add paneer cubes and simmer for 10 minutes.",
+    "Garnish with cream and coriander before serving."
+  ]
+},
+{
+  "name": "Chicken Quesadilla",
+  "image": "quesadilla.jpg",
+  "time": 30,
+  "ingredients": ["chicken", "cheese", "gluten-free", "tortilla"],
+  "cuisine": "mexican",
+  "steps": [
+    "Cook chicken with spices in a pan.",
+    "Layer chicken and cheese between tortillas.",
+    "Grill or toast until golden and crispy.",
+    "Cut into wedges and serve with salsa."
+  ]
+},
+{
+  "name": "Mushroom Alfredo Pasta",
+  "image": "alfredo.jpg",
+  "time": 35,
+  "ingredients": ["vegetarian", "mushrooms", "cream", "gluten-free"],
+  "cuisine": "italian",
+  "steps": [
+    "Cook pasta and set aside.",
+    "Sauté mushrooms in butter.",
+    "Add cream and parmesan to make sauce.",
+    "Toss pasta in sauce and cook for 5 mins.",
+    "Serve hot with parsley garnish."
+  ]
+}
+
+
+]
